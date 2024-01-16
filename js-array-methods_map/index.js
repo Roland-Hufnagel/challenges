@@ -17,7 +17,7 @@ const cards = [
   },
   {
     id: "3",
-    isBookmarked: true,
+    isBookmarked: false,
     question: "On which types can I use destructuring assignment?",
     answer: "On Objects and Arrays",
     tags: ["js", "next", "advanced"],
